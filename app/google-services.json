@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64217991762",
+    "project_id": "query-desk",
+    "storage_bucket": "query-desk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64217991762:android:5ef93c682bc090b33c2d8b",
+        "android_client_info": {
+          "package_name": "com.qlearn.query_desk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64217991762-1m5vi012ej87gaa1k562alcmppli386e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPhaIIjYzRCSVw_l0IE8vu8t5ew98j9Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64217991762-1m5vi012ej87gaa1k562alcmppli386e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
